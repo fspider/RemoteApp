@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: tech.gusavila92:java-android-websocket-client:1.2.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/tech.gusavila92/java-android-websocket-client/1.2.2/168d6a0a23770bef6bafb00e7004f0ea2d600b24/java-android-websocket-client-1.2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/tech.gusavila92/java-android-websocket-client/1.2.2/ffbbbaa20f8c439d7971e18c74f38c70fc3093b2/java-android-websocket-client-1.2.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/tech.gusavila92/java-android-websocket-client/1.2.2/b48f83675749e6435690c1f7023694a412b60bf0/java-android-websocket-client-1.2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

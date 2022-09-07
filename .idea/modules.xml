@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/remoteapp.iml" filepath="$PROJECT_DIR$/.idea/modules/remoteapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/remoteapp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/remoteapp.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/remoteapp.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/remoteapp.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/remoteapp.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/remoteapp.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/remoteapp.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/remoteapp.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/opencv4/remoteapp.opencv4.iml" filepath="$PROJECT_DIR$/.idea/modules/opencv4/remoteapp.opencv4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/opencv4/remoteapp.opencv4.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/opencv4/remoteapp.opencv4.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/opencv4/remoteapp.opencv4.main.iml" filepath="$PROJECT_DIR$/.idea/modules/opencv4/remoteapp.opencv4.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/opencv4/remoteapp.opencv4.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/opencv4/remoteapp.opencv4.unitTest.iml" />
+    </modules>
+  </component>
+</project>
